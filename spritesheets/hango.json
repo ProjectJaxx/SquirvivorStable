@@ -1,0 +1,605 @@
+{
+  "version": 2,
+  "bodyType": "male",
+  "selections": {
+    "body": {
+      "itemId": "body",
+      "variant": "bronze",
+      "name": "Body color (bronze)"
+    },
+    "expression": {
+      "itemId": "face_angry2",
+      "variant": "bronze",
+      "name": "Angry Alt (bronze)"
+    },
+    "tail": {
+      "itemId": "tail_wolf_fluffy",
+      "variant": "white",
+      "name": "Fluffy Wolf Tail (white)"
+    },
+    "shoulders": {
+      "itemId": "shoulders_leather",
+      "variant": "white",
+      "name": "Leather (white)"
+    },
+    "head": {
+      "itemId": "heads_mouse",
+      "variant": "bronze",
+      "name": "Mouse (bronze)"
+    },
+    "legs": {
+      "itemId": "legs_formal_striped",
+      "variant": "slate",
+      "name": "Striped Formal Pants (slate)"
+    },
+    "clothes": {
+      "itemId": "torso_clothes_sleeveless2_scoop",
+      "variant": "slate",
+      "name": "Sleeveless 2 Scoop (slate)"
+    },
+    "sash": {
+      "itemId": "belt_obi",
+      "variant": "white",
+      "name": "Obi (white)"
+    },
+    "backpack_straps": {
+      "itemId": "backpack_straps",
+      "variant": "white",
+      "name": "Straps (white)"
+    },
+    "socks": {
+      "itemId": "feet_socks_high",
+      "variant": "walnut",
+      "name": "High Socks (walnut)"
+    },
+    "hair": {
+      "itemId": "hair_balding",
+      "variant": "white",
+      "name": "Balding (white)"
+    }
+  },
+  "selectedAnimation": "walk",
+  "showTransparencyGrid": true,
+  "applyTransparencyMask": false,
+  "matchBodyColorEnabled": true,
+  "compactDisplay": false,
+  "enabledLicenses": {
+    "CC0": true,
+    "CC-BY-SA": true,
+    "CC-BY": true,
+    "OGA-BY": true,
+    "GPL": true
+  },
+  "enabledAnimations": {
+    "spellcast": false,
+    "thrust": false,
+    "walk": false,
+    "slash": false,
+    "shoot": false,
+    "hurt": false,
+    "climb": false,
+    "idle": false,
+    "jump": false,
+    "sit": false,
+    "emote": false,
+    "run": false,
+    "watering": false,
+    "combat": false,
+    "1h_slash": false,
+    "1h_backslash": false,
+    "1h_halfslash": false
+  },
+  "url": "https://liberatedpixelcup.github.io/Universal-LPC-Spritesheet-Character-Generator/#sex=male&body=Body_color_bronze&expression=Angry_Alt_bronze&tail=Fluffy_Wolf_Tail_white&shoulders=Leather_white&head=Mouse_bronze&legs=Striped_Formal_Pants_slate&clothes=Sleeveless_2_Scoop_slate&sash=Obi_white&backpack_straps=Straps_white&socks=High_Socks_walnut&hair=Balding_white",
+  "layers": [
+    {
+      "itemId": "tail_wolf_fluffy",
+      "variant": "white",
+      "zPos": 5,
+      "layerNum": 2,
+      "yPos": 0,
+      "isCustom": false,
+      "fileName": "body/tail/fluffy/adult/bg/spellcast/white.png",
+      "supportedAnimations": [
+        "spellcast",
+        "thrust",
+        "walk",
+        "slash",
+        "shoot",
+        "hurt",
+        "climb",
+        "idle",
+        "jump",
+        "sit",
+        "emote",
+        "run",
+        "combat_idle",
+        "backslash",
+        "halfslash"
+      ]
+    },
+    {
+      "itemId": "body",
+      "variant": "bronze",
+      "zPos": 10,
+      "layerNum": 1,
+      "yPos": 0,
+      "isCustom": false,
+      "fileName": "body/bodies/male/spellcast/bronze.png",
+      "supportedAnimations": [
+        "spellcast",
+        "thrust",
+        "walk",
+        "slash",
+        "shoot",
+        "hurt",
+        "climb",
+        "idle",
+        "jump",
+        "sit",
+        "emote",
+        "run",
+        "combat_idle",
+        "backslash",
+        "halfslash"
+      ]
+    },
+    {
+      "itemId": "feet_socks_high",
+      "variant": "walnut",
+      "zPos": 14,
+      "layerNum": 1,
+      "yPos": 0,
+      "isCustom": false,
+      "fileName": "feet/socks/high/male/spellcast/walnut.png",
+      "supportedAnimations": [
+        "spellcast",
+        "thrust",
+        "walk",
+        "slash",
+        "shoot",
+        "hurt",
+        "climb",
+        "idle",
+        "jump",
+        "sit",
+        "emote",
+        "run",
+        "combat_idle",
+        "backslash",
+        "halfslash"
+      ]
+    },
+    {
+      "itemId": "legs_formal_striped",
+      "variant": "slate",
+      "zPos": 20,
+      "layerNum": 1,
+      "yPos": 0,
+      "isCustom": false,
+      "fileName": "legs/formal_striped/male/spellcast/slate.png",
+      "supportedAnimations": [
+        "spellcast",
+        "thrust",
+        "walk",
+        "slash",
+        "shoot",
+        "hurt",
+        "climb",
+        "idle",
+        "jump",
+        "sit",
+        "emote",
+        "run",
+        "combat_idle",
+        "backslash",
+        "halfslash"
+      ]
+    },
+    {
+      "itemId": "torso_clothes_sleeveless2_scoop",
+      "variant": "slate",
+      "zPos": 35,
+      "layerNum": 1,
+      "yPos": 0,
+      "isCustom": false,
+      "fileName": "torso/clothes/sleeveless/sleeveless2_scoop/male/spellcast/slate.png",
+      "supportedAnimations": [
+        "spellcast",
+        "thrust",
+        "walk",
+        "slash",
+        "shoot",
+        "hurt",
+        "climb",
+        "idle",
+        "jump",
+        "sit",
+        "emote",
+        "run",
+        "combat_idle",
+        "backslash",
+        "halfslash"
+      ]
+    },
+    {
+      "itemId": "shoulders_leather",
+      "variant": "white",
+      "zPos": 60,
+      "layerNum": 1,
+      "yPos": 0,
+      "isCustom": false,
+      "fileName": "shoulders/leather/male/spellcast/white.png",
+      "supportedAnimations": [
+        "spellcast",
+        "thrust",
+        "walk",
+        "slash",
+        "shoot",
+        "hurt"
+      ]
+    },
+    {
+      "itemId": "belt_obi",
+      "variant": "white",
+      "zPos": 65,
+      "layerNum": 1,
+      "yPos": 0,
+      "isCustom": false,
+      "fileName": "torso/waist/obi/male/spellcast/white.png",
+      "supportedAnimations": [
+        "spellcast",
+        "thrust",
+        "walk",
+        "slash",
+        "shoot",
+        "hurt",
+        "climb",
+        "idle",
+        "jump",
+        "sit",
+        "emote",
+        "run",
+        "combat_idle",
+        "backslash",
+        "halfslash"
+      ]
+    },
+    {
+      "itemId": "heads_mouse",
+      "variant": "bronze",
+      "zPos": 100,
+      "layerNum": 1,
+      "yPos": 0,
+      "isCustom": false,
+      "fileName": "head/heads/mouse/adult/spellcast/bronze.png",
+      "supportedAnimations": [
+        "spellcast",
+        "thrust",
+        "walk",
+        "slash",
+        "shoot",
+        "hurt",
+        "climb",
+        "idle",
+        "jump",
+        "sit",
+        "emote",
+        "run",
+        "combat_idle",
+        "backslash",
+        "halfslash"
+      ]
+    },
+    {
+      "itemId": "face_angry2",
+      "variant": "bronze",
+      "zPos": 106,
+      "layerNum": 1,
+      "yPos": 0,
+      "isCustom": false,
+      "fileName": "head/faces/global/angry2/spellcast/bronze.png",
+      "supportedAnimations": [
+        "spellcast",
+        "thrust",
+        "walk",
+        "slash",
+        "shoot",
+        "hurt",
+        "climb",
+        "idle",
+        "jump",
+        "sit",
+        "emote",
+        "run",
+        "combat_idle",
+        "backslash",
+        "halfslash"
+      ]
+    },
+    {
+      "itemId": "backpack_straps",
+      "variant": "white",
+      "zPos": 110,
+      "layerNum": 1,
+      "yPos": 0,
+      "isCustom": false,
+      "fileName": "backpack/straps/male/spellcast/white.png",
+      "supportedAnimations": [
+        "spellcast",
+        "thrust",
+        "walk",
+        "slash",
+        "shoot",
+        "hurt"
+      ]
+    },
+    {
+      "itemId": "hair_balding",
+      "variant": "white",
+      "zPos": 120,
+      "layerNum": 1,
+      "yPos": 0,
+      "isCustom": false,
+      "fileName": "hair/balding/adult/spellcast/white.png",
+      "supportedAnimations": [
+        "spellcast",
+        "thrust",
+        "walk",
+        "slash",
+        "shoot",
+        "hurt",
+        "climb",
+        "idle",
+        "jump",
+        "sit",
+        "emote",
+        "run",
+        "combat_idle",
+        "backslash",
+        "halfslash"
+      ]
+    },
+    {
+      "itemId": "tail_wolf_fluffy",
+      "variant": "white",
+      "zPos": 125,
+      "layerNum": 1,
+      "yPos": 0,
+      "isCustom": false,
+      "fileName": "body/tail/fluffy/adult/fg/spellcast/white.png",
+      "supportedAnimations": [
+        "spellcast",
+        "thrust",
+        "walk",
+        "slash",
+        "shoot",
+        "hurt",
+        "climb",
+        "idle",
+        "jump",
+        "sit",
+        "emote",
+        "run",
+        "combat_idle",
+        "backslash",
+        "halfslash"
+      ]
+    }
+  ],
+  "credits": [
+    {
+      "fileName": "body/bodies/male/walk/bronze.png",
+      "file": "body/bodies/male",
+      "notes": "see details at https://opengameart.org/content/lpc-character-bases; 'Thick' Male Revised Run/Climb by JaidynReiman (based on ElizaWy's LPC Revised)",
+      "authors": [
+        "bluecarrot16",
+        "JaidynReiman",
+        "Benjamin K. Smith (BenCreating)",
+        "Evert",
+        "Eliza Wyatt (ElizaWy)",
+        "TheraHedwig",
+        "MuffinElZangano",
+        "Durrani",
+        "Johannes Sjölund (wulax)",
+        "Stephen Challener (Redshrike)"
+      ],
+      "licenses": [
+        "OGA-BY 3.0",
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles",
+        "https://opengameart.org/content/lpc-medieval-fantasy-character-sprites",
+        "https://opengameart.org/content/lpc-male-jumping-animation-by-durrani",
+        "https://opengameart.org/content/lpc-runcycle-and-diagonal-walkcycle",
+        "https://opengameart.org/content/lpc-revised-character-basics",
+        "https://opengameart.org/content/lpc-be-seated",
+        "https://opengameart.org/content/lpc-runcycle-for-male-muscular-and-pregnant-character-bases-with-modular-heads",
+        "https://opengameart.org/content/lpc-jump-expanded",
+        "https://opengameart.org/content/lpc-character-bases"
+      ]
+    },
+    {
+      "fileName": "head/faces/global/angry2/walk/bronze.png",
+      "file": "head/faces/global/angry2",
+      "notes": "Original Bases by Redshrike, Alt Angry Expression by Laetissima and Pennomi, mapped to all frames by JaidynReiman",
+      "authors": [
+        "JaidynReiman",
+        "Thane Brimhall (pennomi)",
+        "laetissima",
+        "Stephen Challener (Redshrike)"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-base-character-expressions",
+        "https://opengameart.org/content/ulpc-expanded-expressions"
+      ]
+    },
+    {
+      "fileName": "body/tail/fluffy/adult/fg/walk/white.png",
+      "file": "body/tail/fluffy",
+      "notes": "",
+      "authors": [
+        "JaidynReiman"
+      ],
+      "licenses": [
+        "OGA-BY 3.0+",
+        "CC-BY 3.0+",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-furry-ears-tails-for-rpg-sprites"
+      ]
+    },
+    {
+      "fileName": "shoulders/leather/male/walk/white.png",
+      "file": "shoulders/leather",
+      "notes": "adapted to female base by makrohn, adapted to v3 bases by bluecarrot16",
+      "authors": [
+        "Matthew Krohn (makrohn)",
+        "Johannes Sjölund (wulax)"
+      ],
+      "licenses": [
+        "OGA-BY 3.0",
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-medieval-fantasy-character-sprites",
+        "http://opengameart.org/content/lpc-clothing-updates"
+      ]
+    },
+    {
+      "fileName": "head/heads/mouse/adult/walk/bronze.png",
+      "file": "head/heads/mouse",
+      "notes": "original rabbit by Redshrike, adapted to modular head by bluecarrot16, modified to mouse head by bluecarrot16",
+      "authors": [
+        "bluecarrot16",
+        "Stephen Challener (Redshrike)"
+      ],
+      "licenses": [
+        "OGA-BY 3.0",
+        "CC-BY 3.0",
+        "CC-BY-SA 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/bunny-rabbit-lpc-style-for-pixelfarm",
+        "http://opengameart.org/content/lpc-folk"
+      ]
+    },
+    {
+      "fileName": "legs/formal_striped/male/walk/slate.png",
+      "file": "legs/formal_striped",
+      "notes": "Original pants by Stephen Challener (Redshrike), thrust/shoot bases by Wulax, Striped Formal Pants by Bluecarrot16, climb/jump/run/sit/emotes/revised combat by JaidynReiman",
+      "authors": [
+        "bluecarrot16",
+        "JaidynReiman",
+        "ElizaWy",
+        "Johannes Sjölund (wulax)",
+        "Stephen Challener (Redshrike)"
+      ],
+      "licenses": [
+        "OGA-BY 3.0",
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles",
+        "https://opengameart.org/content/lpc-medieval-fantasy-character-sprites",
+        "https://opengameart.org/content/lpc-2-characters",
+        "https://opengameart.org/content/lpc-gentleman",
+        "https://opengameart.org/content/lpc-expanded-pants"
+      ]
+    },
+    {
+      "fileName": "torso/clothes/sleeveless/sleeveless2_scoop/male/walk/slate.png",
+      "file": "torso/clothes/sleeveless/sleeveless2_scoop",
+      "notes": "original by ElizaWy; sleeveless adapted from original by JaidynReiman",
+      "authors": [
+        "ElizaWy",
+        "JaidynReiman",
+        "Stephen Challener (Redshrike)",
+        "Johannes Sjölund (wulax)"
+      ],
+      "licenses": [
+        "OGA-BY 3.0"
+      ],
+      "urls": [
+        "http://opengameart.org/content/lpc-revised-character-basics",
+        "https://github.com/ElizaWy/LPC/tree/main/Characters/Clothing",
+        "https://opengameart.org/content/lpc-expanded-sit-run-jump-more",
+        "https://opengameart.org/content/lpc-expanded-simple-shirts"
+      ]
+    },
+    {
+      "fileName": "torso/waist/obi/male/walk/white.png",
+      "file": "torso/waist/obi",
+      "notes": "",
+      "authors": [
+        "JaidynReiman"
+      ],
+      "licenses": [
+        "OGA-BY 3.0+",
+        "CC-BY 3.0+",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-kimono-relm"
+      ]
+    },
+    {
+      "fileName": "backpack/straps/male/walk/white.png",
+      "file": "backpack/straps",
+      "notes": "trivial adjustments by bluecarrot16 to be compatible with v3 bases",
+      "authors": [
+        "Benjamin K. Smith (BenCreating)",
+        "macmanmatty"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-backpacks"
+      ]
+    },
+    {
+      "fileName": "feet/socks/high/male/walk/walnut.png",
+      "file": "feet/socks/high/male",
+      "notes": "original overalls and thin socks by ElizaWy, base animations adapted from v3 overalls by bluecarrot16, socks by JaidynReiman",
+      "authors": [
+        "JaidynReiman",
+        "ElizaWy",
+        "Bluecarrot16",
+        "Stephen Challener (Redshrike)",
+        "Johannes Sjölund (wulax)"
+      ],
+      "licenses": [
+        "OGA-BY 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://github.com/ElizaWy/LPC/tree/main/Characters/Clothing",
+        "https://opengameart.org/content/lpc-expanded-socks-shoes"
+      ]
+    },
+    {
+      "fileName": "hair/balding/adult/walk/white.png",
+      "file": "hair/balding",
+      "notes": "",
+      "authors": [
+        "ElizaWy"
+      ],
+      "licenses": [
+        "OGA-BY 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    }
+  ]
+}
